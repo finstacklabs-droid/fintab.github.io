@@ -68,4 +68,5 @@ We may update this Privacy Policy from time to time. Changes will be reflected b
 
 If you have any questions or concerns about this Privacy Policy, you may contact us at:
 
-Email: support.fintab@gmail.com
+Email: finstacklabs@gmail.com
+
